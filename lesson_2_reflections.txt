@@ -13,18 +13,23 @@
   files which are related to the logical change to the staging area, and leave
   the rest as is.
 
-  4. What are some situations when branches would be helpful in keeping your
-    history organized? How would branches help?
-    When there are code changes need to be keeping tracked, but you don't want
-    them mess up with the stable code on the master branch. They side code
-    changes would also be tracked in their own branch, while the master branch
-    stay intact.
+4. What are some situations when branches would be helpful in keeping your
+  history organized? How would branches help?
+  When there are code changes need to be keeping tracked, but you don't want
+  them mess up with the stable code on the master branch. They side code
+  changes would also be tracked in their own branch, while the master branch
+  stay intact.
 
-  5. How do the diagrams help you visualize the branch structure?
-    It's much more intuitive then the log messages only to figure out the
-    history and relationships between the branches.
+5. How do the diagrams help you visualize the branch structure?
+  It's much more intuitive then the log messages only to figure out the
+  history and relationships between the branches.
 
-  6. What is the result of merging two branches together? Why do we represent
-    it in the diagram the way we do?
-    The result is a merged commit in the branch which was merged into. It is
-    a representation of two stream of branches combine into one.
+6. What is the result of merging two branches together? Why do we represent
+  it in the diagram the way we do?
+  The result is a merged commit in the branch which was merged into. It is
+  a representation of two stream of branches combine into one.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges
+  merges manually?
+  Pros for automatic merging is it is hassle free; while cons is it might mess
+  up with the code. 
