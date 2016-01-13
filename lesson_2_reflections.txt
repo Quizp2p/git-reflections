@@ -19,3 +19,7 @@
     them mess up with the stable code on the master branch. They side code
     changes would also be tracked in their own branch, while the master branch
     stay intact.
+
+  5. How do the diagrams help you visualize the branch structure?
+    It's much more intuitive then the log messages only to figure out the
+    history and relationships between the branches.
