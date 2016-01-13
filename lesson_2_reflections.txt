@@ -23,3 +23,8 @@
   5. How do the diagrams help you visualize the branch structure?
     It's much more intuitive then the log messages only to figure out the
     history and relationships between the branches.
+
+  6. What is the result of merging two branches together? Why do we represent
+    it in the diagram the way we do?
+    The result is a merged commit in the branch which was merged into. It is
+    a representation of two stream of branches combine into one.
