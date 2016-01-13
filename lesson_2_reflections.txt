@@ -1,0 +1,8 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+  Git will create the meta data about this new repository in .git directory,
+  otherwise git will not know that current directory is a new repository.
+
+2. How is the staging area different from the working directory and the
+  repository? What value do you think it offers?
+  Staging area get track of the files user chose to commit, it provides a cache
+  for users to decide which of the files they want to keep tracking with git.
