@@ -2,3 +2,8 @@
   work local?
   When I have to work on different computers on different locations and when I
   want to share the project or collaborate with other people on the project.
+
+2. Why might you want to always pull changes manually rather than having Git
+  automatically stay up-to-date with your remote repository?
+  My local repository might be more up-to-date than the remote one, and also
+  there may be some branches I don't want to share on the remote yet.
