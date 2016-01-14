@@ -13,4 +13,8 @@
  Forks are clones made on Github servers, they will show the relationships to
  the origin projects, while clones could be done remotely or locally and the
  cloned repo will be set to the newly cloned repo's remote as origin. Branches
- are just local labels for different commit streams. 
+ are just local labels for different commit streams.
+
+4. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+Git will get to know wether your commits are in sync with remote repo.
