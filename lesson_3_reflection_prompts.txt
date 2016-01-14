@@ -7,3 +7,10 @@
   automatically stay up-to-date with your remote repository?
   My local repository might be more up-to-date than the remote one, and also
   there may be some branches I don't want to share on the remote yet.
+
+3. Describe the differences between forks, clones, and branches. When would you
+ use one instead of another?
+ Forks are clones made on Github servers, they will show the relationships to
+ the origin projects, while clones could be done remotely or locally and the
+ cloned repo will be set to the newly cloned repo's remote as origin. Branches
+ are just local labels for different commit streams. 
