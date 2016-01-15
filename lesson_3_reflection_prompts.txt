@@ -23,3 +23,9 @@ Git will get to know wether your commits are in sync with remote repo.
 and what would be harder?
 Without Git we could only use the cloud drives, of course Git will be much
 easier.
+
+6. When would you want to make changes in a separate branch rather than directly
+ in master? What benefits does each approach have?
+ When work on an experiment feature or fixing a but or collaborate with other
+ team members, it will avoid a lot of conflicts in code base but it's more
+ tedious.
